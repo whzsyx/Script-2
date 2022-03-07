@@ -37,7 +37,7 @@ cfd_offset_time = 0.01
 
 # 基础配置勿动
 <<<<<<< HEAD
-cfd_url = "https://m.jingxi.com/jxbfd/user/ExchangePrize?strZone=jxbfd&bizCode=jxbfd&source=jxbfd&dwEnv=7&_cfd_t=1642596373356&ptag=7155.9.47&dwType=2&dwLvl=21&ddwPaperMoney=100000&couponpooljxcfd2_exchange_yhq_2022&strPgtimestamp=1639361127193&strPhoneID=5a527bc866ec0094&strPgUUNum=51a7d694d329cd54fafde2fec0a1e7b2&_stk=_cfd_t%2CbizCode%2CdwEnv%2CdwType%2Cptag%2Csource%2CstrZone&_ste=1&h5st=20220119204613361%3B4172560837242996%3B92a36%3Btk02w8d351bcd18nU4srUZFBqF43MvGec5hQLbwJ1T9kMsL%2Boz0fK3F34svsMFHOTr9t9DtJsw5dVu2k4wkVnSRi4WeJ%3Bbb19fdb1dd2b2bb2b513a76336898365b30ee538d6d694de3241317bdcf0a03f%3B3.0%3B1642596373361&_=1642596373361&sceneval=2&g_login_type=1&callback=jsonpCBKO&g_ty=ls"
+cfd_url =  "https://m.jingxi.com/jxbfd/user/ExchangePrize?strZone=jxbfd&bizCode=jxbfd&source=jxbfd&dwEnv=7&_cfd_t=1646650802339&ptag=7155.9.47&dwType=3&dwLvl=7&ddwPaperMoney=100000&strPoolName=jxcfd2_exchange_hb_202203&strPgtimestamp=1646650802269&strPhoneID=ec3113d7d8bb972b&strPgUUNum=274575be96f593e3a00e65cb4de4b73c&_stk=_cfd_t%2CbizCode%2CddwPaperMoney%2CdwEnv%2CdwLvl%2CdwType%2Cptag%2Csource%2CstrPgUUNum%2CstrPgtimestamp%2CstrPhoneID%2CstrPoolName%2CstrZone&_ste=1&h5st=20220307190002340%3B8481953480261884%3B92a36%3Btk02w9dac1c1718nSdyv8Hef8HP6uL7Gsx2x4%2F43vxcpT1QbCmkxzop05pDiUH63IF3V2U%2B7qnhlawj6pKiabwLP4mQm%3B04838bae833d325298c5d6bb3d0d5dc79c37325df6b0d7fe0a09bc74d50c26c4%3B3.0%3B1646650802340&_=1646650802341&sceneval=2&g_login_type=1&callback=jsonpCBKII&g_ty=ls"
 =======
 cfd_url = get_cfd100url()
 >>>>>>> b97fea284ae38c06710e5705543900dc5080bbf8
